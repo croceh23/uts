@@ -1,0 +1,38 @@
+.tengah {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tengah h1 {
+    font-size: 2rem;
+    color: #7f962b;
+    margin-bottom: 15px;
+}
+
+.tengah p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.tengah a {
+    color: #7d8228;
+    text-decoration: none;
+}
+
+.tengah a:hover {
+    text-decoration: underline;
+}
+
+.icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+}
